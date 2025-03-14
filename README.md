@@ -13,11 +13,11 @@ I'm [CoutCin](https://blog.coutcin.top)
 
 ## Language Top
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coutcin-xw&hide=css,html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=coutcin-xw&hide=css,html&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coutcin-xw&hide=css,html&layout=compact)](https://github.com/coutcin-xw)
 
 ## Repo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=coutcin-xw&repo=coutcin-xw.github.io)]([https://github-readme-stats.vercel.app/api/top-langs/?username=coutcin-xw&hide=css,html&layout=compact](https://github.com/coutcin-xw/coutcin-xw.github.io))
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=coutcin-xw&repo=coutcin-xw.github.io)](https://github.com/coutcin-xw/coutcin-xw.github.io)
 
 ## Visitors
 
