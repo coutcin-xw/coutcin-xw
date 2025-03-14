@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**coutcin-xw/coutcin-xw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [CoutCin](https://blog.coutcin.top)
 
-Here are some ideas to get you started:
+  * A cybersecurity practitioner
+  * Blog: https://blog.coutcin.top.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,golang,python,k8s,docker,vscode)](https://skillicons.dev)
+
+## Github Stats
+
+[![CoutCin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coutcin-xw&show_icons=true&hide_title=false&theme=tokyonight)](https://github.com/coutcin-xw)
+
+## Language Top
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coutcin-xw&hide=css,html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=coutcin-xw&hide=css,html&layout=compact)
+
+## Repo
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=coutcin-xw&repo=coutcin-xw.github.io)]([https://github-readme-stats.vercel.app/api/top-langs/?username=coutcin-xw&hide=css,html&layout=compact](https://github.com/coutcin-xw/coutcin-xw.github.io))
+
+## Visitors
+
+<img align='left' src="https://profile-counter.glitch.me/coutcin-xw/count.svg" width="200">
