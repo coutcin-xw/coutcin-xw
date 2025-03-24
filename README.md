@@ -2,7 +2,8 @@
 
 I'm [CoutCin](https://blog.coutcin.top)
 
-  * A cybersecurity practitioner
+  * About: A cybersecurity practitioner
+  * Motto: No matter how far the road, walking will take you there; no matter how hard the task, doing will make it succeed.
   * Blog: https://blog.coutcin.top.
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,golang,python,k8s,docker,vscode)](https://skillicons.dev)
