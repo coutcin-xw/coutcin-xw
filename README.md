@@ -20,6 +20,4 @@ I'm [CoutCin](https://blog.coutcin.top)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=coutcin-xw&repo=coutcin-xw.github.io)](https://github.com/coutcin-xw/coutcin-xw.github.io)
 
-## Visitors
 
-<img align='left' src="https://profile-counter.glitch.me/coutcin-xw/count.svg" width="200">
