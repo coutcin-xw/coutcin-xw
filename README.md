@@ -6,7 +6,7 @@ I'm [CoutCin](https://blog.coutcin.top)
   * Motto: The path may be near, but if you do not walk it, you will never arrive.
   * Blog: https://blog.coutcin.top.
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,golang,python,k8s,docker,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,golang,java,python,rust,k8s,docker,vscode)](https://skillicons.dev)
 
 ## Github Stats
 
@@ -19,5 +19,4 @@ I'm [CoutCin](https://blog.coutcin.top)
 ## Repo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=coutcin-xw&repo=coutcin-xw.github.io)](https://github.com/coutcin-xw/coutcin-xw.github.io)
-
 
