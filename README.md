@@ -10,13 +10,12 @@ I'm [CoutCin](https://blog.coutcin.top)
 
 ## Github Stats
 
-[![CoutCin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coutcin-xw&show_icons=true&hide_title=false&theme=tokyonight)](https://github.com/coutcin-xw)
+[![CoutCin's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=coutcin-xw&show_icons=true&hide_title=false&theme=tokyonight)](https://github.com/coutcin-xw)
 
 ## Language Top
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coutcin-xw&hide=css,html&layout=compact)](https://github.com/coutcin-xw)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=coutcin-xw&hide=css,html&layout=compact)](https://github.com/coutcin-xw)
 
 ## Repo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=coutcin-xw&repo=coutcin-xw.github.io)](https://github.com/coutcin-xw/coutcin-xw.github.io)
-
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/pin/?username=coutcin-xw&repo=coutcin-xw.github.io)](https://github.com/coutcin-xw/coutcin-xw.github.io)
